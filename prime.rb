@@ -5,7 +5,7 @@ def prime?(i)
     false
   elsif i <= 0
     false
-  elsif
+  elsif i 
     true 
   end
 end
