@@ -1,4 +1,5 @@
 # Add  code here!
+require 'math'
 def prime?(i)
   return if i <= 1
   return if i < 0
