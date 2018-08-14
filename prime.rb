@@ -6,5 +6,5 @@ def prime?(i)
   elsif i <= 0
     false
   elsif
-    
+    true
 end
